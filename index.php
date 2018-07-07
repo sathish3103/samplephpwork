@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Developing PHP application</h1>
+<h1>Hello Bangaluru</h1>
 
 <?php
 echo "version 1.0";
